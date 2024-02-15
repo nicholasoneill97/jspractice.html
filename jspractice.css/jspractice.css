@@ -1,0 +1,60 @@
+#header {
+    background: linear-gradient(90deg, gray, black);
+    width: 100%;
+    position: fixed;
+    height: 100px;
+    text-align:right;
+    top:0;
+    left:0;
+    display: flex;
+    flex-wrap:nowrap;
+    z-index: 0;
+    
+}
+#navbar {
+   width:100%;
+    
+}
+
+ul {
+    list-style: none;
+}
+.navlink {
+    
+    margin-top: 10px;
+    color: rgb(228, 116, 116);
+   
+    float:inline-end;
+    margin-right: 35px;
+    text-decoration: none;
+    border: 1px solid;
+    border-color: aqua;
+    
+}
+
+.navlink:hover {
+    background-color: rgb(121, 100, 222);
+}
+
+#datetest p {
+    padding-top: 600px;
+}
+
+#home {
+    padding-top: 400px;
+    padding-bottom: 200px;
+    text-decoration:underline;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 2.5px;
+    
+}
+
+button{
+    margin-top: 595px;;
+}
+
+#school {
+    height: px;;
+    border-bottom: 90px;;
+}
