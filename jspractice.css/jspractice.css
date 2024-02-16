@@ -58,3 +58,6 @@ button{
     height: px;;
     border-bottom: 90px;;
 }
+body {
+    background-color: rgb(83, 80, 80);
+}
